@@ -1,16 +1,21 @@
-## Hi there 👋
+# TitanPlayz's GitHub
+Skyclash
+- Spent several months making hypixel skywars but with different kits and perks, along with my friends who made the maps
+- Learned about Java and understand all the memes about it being a bad language
 
-<!--
-**TitanPlayz100/titanplayz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Teti
+- tetris web client very similar to tetrio singleplayer but merged many more gamemodes from techmino
+- learned javascript and the horrible language design
 
-Here are some ideas to get you started:
+Personal Website
+- has many tetris links to amazing resources, has all my video guides, lots of public discord servers and YT channels tetris related
+- has a small bio about me
+- rawdogging html and css like a pro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PseudoHuman
+- school project, multiplayer online game working with nextjs for frontend and nodejs/bun for server
+
+I will occasionally decide to continue these projects for no reason, and even more rarely upload to my youtube channel which you should check out
+Pretty good at tetrio and shmups, and made many datapacks for mc
+
+Fun fact: once upon a time i cubed on 3x3, 21s pb 
