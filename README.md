@@ -2,7 +2,7 @@
 
 Skyclash - Spent several months making hypixel skywars clone, understand all the memes about Java being bad.  
 Teti - tetris web client, javascript has a horrible language design.  
-Personal Website - many links to resources, video guides, YT channels tetris related, rawdogging html and css.  
+Personal Website - many links to resources, video guides, YT channels tetris related, html and css.  
 PseudoHuman - school project, multiplayer online game working with nextjs for frontend and nodejs/bun for server.
 ***
 I will occasionally continue projects for no reason, and even more rarely upload to my youtube channel which you should check out.  
